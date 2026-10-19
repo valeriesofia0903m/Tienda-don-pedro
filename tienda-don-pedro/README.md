@@ -8,6 +8,7 @@ Tienda de barrio en Itagüí. Don Pedro quiere llevar el control de sus producto
 
 - `productos.txt`: productos y precios.
 - `clientes.txt`: clientes frecuentes.
+- `src/main.py`: archivo principal del programa.
 
 
 ## Tabla
@@ -40,4 +41,4 @@ python src/main.py
 ```
 
 ## Autor
-[valeriesofia0903m](https://github.com/valeriesofia0903m/Tienda-don-pedro/tree/main/tienda-don-pedro)
+[valeriesofia0903m](https://github.com/valeriesofia0903m)
